@@ -2,5 +2,6 @@ collections:
   gillman-barracks:
     output: true
     order:
+      - Offerings.md
       - About.md
       - History.md
