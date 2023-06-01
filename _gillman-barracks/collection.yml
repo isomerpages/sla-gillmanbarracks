@@ -2,5 +2,5 @@ collections:
   gillman-barracks:
     output: true
     order:
-      - History of Gillman Barracks.md
+      - History.md
       - About.md
