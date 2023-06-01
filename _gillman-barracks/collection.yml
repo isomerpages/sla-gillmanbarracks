@@ -2,6 +2,7 @@ collections:
   gillman-barracks:
     output: true
     order:
+      - things to do.md
       - About.md
       - History.md
       - Offerings.md
