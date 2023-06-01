@@ -71,3 +71,25 @@ permalink: /terms-of-use/
 19.   SLA reserves all rights to remove or disable any hyperlinks to or any frames of this Site or the Contents, if those hyperlinks or frames are on websites containing material or information which, in the opinion of SLA, is profane, defamatory, obscene, indecent or otherwise objectionable, or violates any written law or is otherwise unlawful, or is an infringement of SLA's intellectual property or other proprietary rights.   
       
 20.   SLA reserves the right to remove or disable any unauthorised hyperlinks to or any unauthorised frames of this Site or the Contents, appearing on any other website.
+
+**PERMISSION FOR USE OF SITE OR CONTENTS**
+
+21.  Where permission is required by these Terms of Use for use of this Site or the Contents, you may apply for permission by writing to SLA at 55 Newton Road, #12-01 Revenue House, Singapore 307987 , and including the following information in your correspondence:
+
+*   the reason(s) why you require the use of this Site or the Contents; 
+*   the intended manner of use of this Site or the Contents; 
+*   whether it is the whole or part only of this Site or the Contents which you intend to use, and if part only, which part(s); 
+*   where the intended use involves creating hyperlinks or frames of this Site or the Contents on other websites, the website addresses of all such other websites; and 
+*   the duration of the intended use of this Site or the Contents. 
+
+22.  SLA may, at its absolute discretion, grant or refuse permission to use this Site or the Contents, and (if permission is granted) impose such conditions for the use of this Site or the Contents as it deems fit. SLA shall not be obliged to provide any reasons for its decision.
+
+**FEES**
+
+23.  Currently, no charge is imposed for accessing or using any part of this Site. SLA reserves the right to introduce, from time to time, a charge for accessing or using the Site. SLA is not responsible for any fees charged by any other website not operated by SLA.
+
+**GOVERNING LAW**
+
+24.  These Terms of Use shall be governed by and construed in accordance with the laws of the Republic of Singapore, and you agree to submit to the non-exclusive jurisdiction of the Singapore courts.
+
+
