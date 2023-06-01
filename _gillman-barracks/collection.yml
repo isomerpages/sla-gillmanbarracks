@@ -1,4 +1,5 @@
 collections:
   gillman-barracks:
     output: true
-    order: []
+    order:
+      - Home.md
