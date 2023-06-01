@@ -1,4 +1,5 @@
 collections:
   southern-islands:
     output: true
-    order: []
+    order:
+      - About.md
