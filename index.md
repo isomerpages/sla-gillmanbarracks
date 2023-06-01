@@ -13,7 +13,7 @@ sections:
       title: VISIT SLA PROPERTIES
       background: /images/_dsc0451.jpg
       dropdown:
-        title: Select properties
+        title: select properties
         options: []
   - infobar:
       title: Infobar title
@@ -21,4 +21,8 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
