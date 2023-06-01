@@ -2,8 +2,8 @@ title: Visit SLA Properties
 url: https://visitslaprop.sla.gov.sg
 favicon: /images/sla logo.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#80c342"
+  secondary-color: "#3e6f60"
   media-colors:
     - title: media-color-one
       color: "#49759a"
