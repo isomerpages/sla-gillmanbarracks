@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: VISIT SLAP PROPERTIES
+      title: VISIT SLA PROPERTIES
       background: /images/_dsc0451.jpg
       dropdown:
         title: Select properties
