@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Gillman Barracks
+    collection: example-folder
+  - title: Dempsey
+    collection: example-folder
+  - title: Chip bee Gardens
+    collection: example-folder
+  - title: Southern Islands
+    collection: example-folder
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
