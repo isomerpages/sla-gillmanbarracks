@@ -1,4 +1,5 @@
 collections:
   chip-bee-gardens:
     output: true
-    order: []
+    order:
+      - About.md
