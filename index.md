@@ -34,4 +34,11 @@ sections:
       url: www.google.com
       image: /images/_dsc0451.jpg
       alt: Image alt text
+  - infopic:
+      title: CHIP BEE GARDENS
+      description: A Maker's Village
+      button: EXPLORE
+      url: www.google.com
+      image: /images/_dsc0451.jpg
+      alt: Image alt text
 ---
