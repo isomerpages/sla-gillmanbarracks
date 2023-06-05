@@ -13,6 +13,17 @@ sections:
   - hero:
       title: VISIT SLA PROPERTIES
       background: /images/_dsc0451.jpg
+      dropdown:
+        title: select property
+        options:
+          - title: Gillman Barracks
+            url: ""
+          - title: Dempsey
+            url: ""
+          - title: Chip Bee Gardens
+            url: ""
+          - title: Southern Islands
+            url: ""
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
