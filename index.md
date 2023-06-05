@@ -7,20 +7,12 @@ description: SLA manages about 11,000 hectares of State Land and 2,700 State
   Singaporeans.
 image: /images/_dsc0451.jpg
 permalink: /
-notification: ""
+notification: "Sample text: This space can be used for latest updates. ie
+  maintenance/alerts/events"
 sections:
   - hero:
       title: VISIT SLA PROPERTIES
       background: /images/_dsc0451.jpg
-      dropdown:
-        title: select property
-        options: []
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Resources Section Title
       subtitle: Resources Section Subtitle
