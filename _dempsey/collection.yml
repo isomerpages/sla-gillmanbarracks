@@ -1,5 +1,4 @@
 collections:
   dempsey:
     output: true
-    order:
-      - folder-page.md
+    order: []
