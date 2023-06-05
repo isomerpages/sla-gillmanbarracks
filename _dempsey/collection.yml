@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  dempsey:
     output: true
     order:
       - folder-page.md
