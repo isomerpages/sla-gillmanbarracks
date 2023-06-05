@@ -2,20 +2,19 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-**GENERAL** TEST
+**GENERAL** 
 
-Thank you for visiting [www.sla.gov.sg](http://www.sla.gov.sg/) (this "Site"). This Site is the official website of the Singapore Land Authority ("SLA") . It is owned and operated by SLA. By accessing and using any part of this Site, you shall be deemed to have accepted, and agreed to be bound by, these Terms of Use. If you do not accept, or do not agree to be bound by, these Terms of Use, please discontinue your access to this Site immediately and do not use this Site.  
-      
-    
-SLA may, at its absolute discretion, amend these Terms of Use from time to time without prior notice. The amended Terms of Use will be posted on this Site, and upon accessing or using this Site after the amended Terms of Use have been posted, you shall be deemed to have accepted and agreed to be bound by the amended Terms of Use. You should therefore check these Terms of Use every time you visit this Site. All references in this Site to these "Terms of Use" shall mean these Terms of Use as amended from time to time and posted on this Site.
+1. Thank you for visiting [www.sla.gov.sg](http://www.sla.gov.sg/) (this "Site"). This Site is the official website of the Singapore Land Authority ("SLA") . It is owned and operated by SLA. By accessing and using any part of this Site, you shall be deemed to have accepted, and agreed to be bound by, these Terms of Use. If you do not accept, or do not agree to be bound by, these Terms of Use, please discontinue your access to this Site immediately and do not use this Site.  
+          
+2. SLA may, at its absolute discretion, amend these Terms of Use from time to time without prior notice. The amended Terms of Use will be posted on this Site, and upon accessing or using this Site after the amended Terms of Use have been posted, you shall be deemed to have accepted and agreed to be bound by the amended Terms of Use. You should therefore check these Terms of Use every time you visit this Site. All references in this Site to these "Terms of Use" shall mean these Terms of Use as amended from time to time and posted on this Site.
 
 **PROPRIETARY RIGHTS**
 
-This Website and the materials made available on or through this Website ("Contents"), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by SLA.
+3. This Website and the materials made available on or through this Website ("Contents"), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by SLA.
 
 **RESTRICTION ON USE**
 
-You may access and use this Site and the Contents in the manner permitted in these Terms of Use only.   
+4. You may access and use this Site and the Contents in the manner permitted in these Terms of Use only.   
       
 5.  You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.   
       
