@@ -24,12 +24,14 @@ sections:
             url: ""
           - title: Southern Islands
             url: ""
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - resources:
       title: News & Updates
       button: Read more
+  - infopic:
+      title: Gillman Barracks
+      description: Vibrant Creative LIfestyle Enclave
+      button: Explore now
+      url: www.google.com
+      image: /images/_dsc0451.jpg
+      alt: Image alt text
 ---
