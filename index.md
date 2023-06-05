@@ -28,7 +28,7 @@ sections:
       title: News & Updates
       button: Read more
   - infopic:
-      title: Gillman Barracks
+      title: GILLMAN BARRACKS
       description: Vibrant Creative LIfestyle Enclave
       button: Explore now
       url: www.google.com
