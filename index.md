@@ -13,7 +13,7 @@ sections:
       title: VISIT SLA PROPERTIES
       background: /images/_dsc0451.jpg
       dropdown:
-        title: select properties
+        title: select property
         options: []
   - infobar:
       title: Infobar title
