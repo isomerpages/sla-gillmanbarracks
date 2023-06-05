@@ -41,4 +41,11 @@ sections:
       url: www.google.com
       image: /images/_dsc0451.jpg
       alt: Image alt text
+  - infopic:
+      title: SOUTHERN ISLANDS
+      description: A Rustic Island Getaway
+      button: Button Text
+      url: www.google.com
+      image: /images/_dsc0451.jpg
+      alt: Image alt text
 ---
