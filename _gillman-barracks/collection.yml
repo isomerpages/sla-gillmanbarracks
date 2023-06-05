@@ -2,6 +2,7 @@ collections:
   gillman-barracks:
     output: true
     order:
+      - Test/.keep
       - About.md
       - History.md
       - Offerings.md
