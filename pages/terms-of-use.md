@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-**GENERAL**
+**GENERAL** TEST
 
 Thank you for visiting [www.sla.gov.sg](http://www.sla.gov.sg/) (this "Site"). This Site is the official website of the Singapore Land Authority ("SLA") . It is owned and operated by SLA. By accessing and using any part of this Site, you shall be deemed to have accepted, and agreed to be bound by, these Terms of Use. If you do not accept, or do not agree to be bound by, these Terms of Use, please discontinue your access to this Site immediately and do not use this Site.  
       
