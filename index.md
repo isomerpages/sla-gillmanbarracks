@@ -24,12 +24,12 @@ sections:
             url: ""
           - title: Southern Islands
             url: ""
-  - resources:
-      title: News & Updates
-      button: Read more
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - resources:
+      title: News & Updates
+      button: Read more
 ---
