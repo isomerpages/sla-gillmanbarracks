@@ -48,4 +48,11 @@ sections:
       url: www.google.com
       image: /images/_dsc0451.jpg
       alt: Image alt text
+  - infopic:
+      title: DEMPSEY
+      description: An Iconic Lifestyle Enclave
+      button: Button Text
+      url: www.google.com
+      image: /images/_dsc0451.jpg
+      alt: Image alt text
 ---
