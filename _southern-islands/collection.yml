@@ -1,0 +1,5 @@
+collections:
+  southern-islands:
+    output: true
+    order:
+      - About.md

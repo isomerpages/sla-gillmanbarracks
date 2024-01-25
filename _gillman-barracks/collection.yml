@@ -1,0 +1,11 @@
+collections:
+  gillman-barracks:
+    output: true
+    order:
+      - About.md
+      - History.md
+      - Offerings.md
+      - Test/.keep
+      - Test/Example Title.md
+      - Things to do.md
+      - Getting here.md

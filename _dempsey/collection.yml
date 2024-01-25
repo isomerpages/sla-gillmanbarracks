@@ -1,0 +1,4 @@
+collections:
+  dempsey:
+    output: true
+    order: []

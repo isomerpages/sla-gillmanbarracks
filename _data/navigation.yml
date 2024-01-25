@@ -1,0 +1,12 @@
+logo: /images/sla logo.png
+links:
+  - title: Gillman Barracks
+    collection: gillman-barracks
+  - title: Dempsey
+    collection: dempsey
+  - title: Chip Bee Gardens
+    collection: chip-bee-gardens
+  - title: Southern Islands
+    collection: southern-islands
+  - title: CONTACT US
+    url: /contact-us

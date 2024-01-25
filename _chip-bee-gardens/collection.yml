@@ -1,0 +1,6 @@
+collections:
+  chip-bee-gardens:
+    output: true
+    order:
+      - History.md
+      - About.md
