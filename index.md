@@ -39,20 +39,20 @@ sections:
       description: A Maker's Village
       button: EXPLORE
       url: www.google.com
-      image: /images/_dsc0451.jpg
+      image: /images/_DSC2299.jpg
       alt: Image alt text
   - infopic:
       title: SOUTHERN ISLANDS
       description: A Rustic Island Getaway
       button: Button Text
       url: www.google.com
-      image: /images/_dsc0451.jpg
+      image: /images/Southern_Islands_Thumbnail.jpg
       alt: Image alt text
   - infopic:
       title: DEMPSEY
       description: An Iconic Lifestyle Enclave
       button: Button Text
       url: www.google.com
-      image: /images/_dsc0451.jpg
+      image: /images/_DSC2229.jpg
       alt: Image alt text
 ---
