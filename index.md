@@ -44,14 +44,14 @@ sections:
   - infopic:
       title: SOUTHERN ISLANDS
       description: A Rustic Island Getaway
-      button: Button Text
+      button: Explore
       url: www.google.com
       image: /images/Southern_Islands_Thumbnail.jpg
       alt: Image alt text
   - infopic:
       title: DEMPSEY
       description: An Iconic Lifestyle Enclave
-      button: Button Text
+      button: Explore
       url: www.google.com
       image: /images/_DSC2229.jpg
       alt: Image alt text
