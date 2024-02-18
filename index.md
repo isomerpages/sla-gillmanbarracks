@@ -12,7 +12,7 @@ notification: "Sample text: This space can be used for latest updates. ie
 sections:
   - hero:
       title: VISIT SLA PROPERTIES
-      background: /images/_dsc0451.jpg
+      background: /images/Untitled.jpg
       dropdown:
         title: select property
         options:
@@ -39,7 +39,7 @@ sections:
       description: A Maker's Village
       button: EXPLORE
       url: www.google.com
-      image: /images/_DSC2299.jpg
+      image: /images/WhatsApp_Image_2024_02_15_at_1_27_15_PM.jpeg
       alt: Image alt text
   - infopic:
       title: SOUTHERN ISLANDS
